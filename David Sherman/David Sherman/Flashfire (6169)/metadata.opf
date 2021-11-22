@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">613fd171-36af-47a8-9932-10743092c883</dc:identifier>
+        <dc:title>Flashfire</dc:title>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">David Sherman</dc:creator>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">Dan Cragg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-03-27T10:33:40.864000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Packed with hard-core action written by battle-savvy combat veterans, the explosive Starfist series has become hugely popular across America. Now the saga of the courageous Marines continues in Flashfire, as the 34th Fleet Initial Strike Team (FIST) ventures to the edge of Human Space to fight a number of enemies . . . some on their own side.Tensions erupt between the Confederation and several frontier worlds when civilians are shot dead at an army base on the planet Ravenette. Enraged, the Ravenette government and nine neighboring planets form a coalition, and their first act of secession is to overrun Ravenette’s Confederation garrison. With the armed forces of ten worlds seizing the brutal upper hand, the embattled troops need help–now–and they need it bad.Enter the Marines of the 34th FIST. As the nearest ready-to-deploy unit, the team is sent to Ravenette with orders to hold the line until reinforcements arrive. The upcoming operation promises to be no picnic, for while sophisticates may ridicule the backward ways of the uncouth frontier folk, no one scoffs at their fighting ability.Charlie Bass doesn’t mince words for his men in Company L’s third platoon. Two army divisions–perhaps thirty thousand soldiers–are being overwhelmed, and somebody expects a thousand Marines to save the day. As pompous Confederation generals wreak even more havoc than the enemy, there are those who call the mission suicide . . . but not the Marines. Of course it sounds hopeless, but for Marines like Charlie Bass and the rest of the 34th FIST, accomplishing the impossible comes with the territory.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345460554</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Starfist" name="calibre:series"/>
+        <meta content="11" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-02T10:23:11.432000+00:00" name="calibre:timestamp"/>
+        <meta content="Flashfire" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70ea791e-eec5-49a9-9a70-7cdc6f8d0ab0</dc:identifier>
+        <dc:title>Lightning</dc:title>
+        <dc:creator opf:file-as="Steel, Danielle" opf:role="aut">Danielle Steel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-06-02T06:23:37.849000+00:00</dc:date>
+        <dc:description>SUMMARY:
+As a partner at one of New York's most prestigious law firms, Alexandra Parker barely manages to juggle husband, career, and the three-year-old child she gave birth to at forty.  But Alex feels blessed with her life and happy marriage--until lightning strikes her.  Suddenly a routine medical check-up turns her world upside down when tests reveal shattering news.Sam Parker is a star venture capitalist, a Wall Street whiz kid, and is as proud of his longtime marriage to Alex as he is of his successful career.  As a major player in New York's financial world, Sam is used to being in control--until he is caught off guard by Alex's illness.  Terrified of losing his wife and family, and haunted by ghosts from his past, Sam is unable to provide any kind of emotional support to Alex.Unable to cope with her needs, Sam takes his distance from her, and almost overnight she and Sam become strangers.  As lightning strikes them yet again, Sam's promising career suddenly explodes in disaster, and his very life and identity are challenged.  With their entire future hanging in the balance, Alex must decide what she feels for Sam, if life will ever be the same for them again, or if she must move on without him.What happens to people when every aspect of their lives and well-being is threatened?  In Lightning, Danielle Steel tells the story of a family thrust into uncertainty and explores whether the bonds of love and marriage can withstand life's most unexpected bolts of lightning.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440221500</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-13T06:08:42.888000+00:00" name="calibre:timestamp"/>
+        <meta content="Lightning" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

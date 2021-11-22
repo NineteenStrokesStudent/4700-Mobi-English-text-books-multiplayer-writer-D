@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57a28399-79f0-438b-a044-eea5e20e3f8b</dc:identifier>
+        <dc:title>Internecine</dc:title>
+        <dc:creator opf:file-as="Schow, David J." opf:role="aut">David J. Schow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-02T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+***“Smart, scathing, and verbally inventive to an astonishing degree, David J. Schow is one of the most interesting writers of his generation.”—Peter Straub 
+
+
+
+***“Inter-what?” When advertising executive Conrad Maddox returns from a redeye flight and finds a mysterious locker key waiting in his rental car, he discovers a briefcase loaded with guns and money. Several hours later, his entire life tumbles down a rabbit hole when he meets Dandine, owner of the case and former contract assassin for a shadowy organization called Norco, which is now out to nail both of them. 
+
+“Internecine” means conflict, mutual destruction, and slaughter—or, as Dandine tells Conrad, they are now inadvertently at play in a field of “terrorism, counter-assassination, military coups, dirty tricks, Watergate, spy vs. spy, murky secret organizations, that sort of thing.” A world in which being innocent can’t save you, the police can’t help you, and your only hope of getting out alive is to risk unheard-of dangers against opponents with nearly unlimited power. To free themselves from the spider web of black ops, murder, madness and betrayal, Dandine and Conrad must delve ever-deeper into the spiraling, dangerous maze that is Norco, where everyone seems to be in on the most lethal of games…except you.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312571368</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-11T23:19:21.750000+00:00" name="calibre:timestamp"/>
+        <meta content="Internecine" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

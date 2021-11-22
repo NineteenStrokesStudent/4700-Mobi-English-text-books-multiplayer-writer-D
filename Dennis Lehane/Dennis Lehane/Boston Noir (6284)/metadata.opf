@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6284</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9306fb09-2734-4340-9c49-f53417619420</dc:identifier>
+        <dc:title>Boston Noir</dc:title>
+        <dc:creator opf:file-as="Lehane, Dennis" opf:role="aut">Dennis Lehane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-31T14:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+“Dennis Lehane advises us not to judge the genre by its Hollywood images of sharp men in fedoras lighting cigarettes for femmes fatales standing in the dark alleys...[Lehane] writes persuasively of the gentrification that has...left people feeling crushed.”—New York Times Book Review Brand-new stories by: Dennis Lehane, Stewart O'Nan, Patricia Powell, John Dufresne, Lynne Heitman, Don Lee, Russ Aborn, Itabari Njeri, Jim Fusilli, Brendan DuBois, and Dana Cameron. Dennis Lehane (Mystic River, The Given Day) has proven himself to be a master of both crime fiction and literary fiction. Here, he extends his literary prowess to that of master curator. In keeping with the Akashic Noir series tradition, each story in Boston Noir is set in a different neighborhood of the city—the impressively diverse collection extends from Roxbury to Cambridge, from Southie to the Boston Harbor, and all stops in between. Lehane’s own contribution—the longest story in the volume—is set in his beloved home neighborhood of Dorchester and showcases his phenomenal ability to grip the heart, soul, and throat of the reader. In 2003, Lehane’s novel Mystic River was adapted into film and quickly garnered six Academy Award nominations (with Sean Penn and Tim Robbins each winning Academy Awards). Boston Noir launches in November 2009 just as Shutter Island, the film based on Lehane’s best-selling 2003 novel of the same title, hits the big screen. Dennis Lehane is the author of The New York Times bestseller Mystic River (also an Academy Award–winning major motion picture); Prayers for Rain; Gone, Baby, Gone (also a major motion picture); Sacred; Darkness, Take My Hand; A Drink Before the War, which won the Shamus Award for Best First Novel; and, most recently, The Given Day. A native of Dorchester, Massachusetts, he splits his time between the Boston area and Florida.</dc:description>
+        <dc:publisher>Akashic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781933354910</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-11-06T15:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Boston Noir" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

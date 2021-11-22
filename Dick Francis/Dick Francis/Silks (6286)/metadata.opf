@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff4cc9bc-a04f-4453-81f4-9b32e121cab7</dc:identifier>
+        <dc:title>Silks</dc:title>
+        <dc:creator opf:file-as="Francis, Dick &amp; FRANCIS, FELIX" opf:role="aut">Dick Francis</dc:creator>
+        <dc:creator opf:file-as="Francis, Dick &amp; FRANCIS, FELIX" opf:role="aut">Felix Francis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*“Julian Trent, you have been found guilty by this court of perpetrating a violent and unprovoked attack on an innocent family including a charge of attempted murder. You have shown little or no remorse for your actions and I consider you a danger to society.”* 
+
+
+
+ When defense lawyer Geoffrey Mason hears the judge’s ruling at London’s Old Bailey, he quietly hopes that a substantial sentence will be handed down to his arrogant young client. That Julian Trent only receives eight years seems all too lenient. Little does Mason realize that he’ll be looking Trent in the eyes again much sooner than that. 
+
+
+
+ Setting aside his barrister’s gown and wig, Mason heads to Sandown racetrack to don his colorful racing silks. As an amateur jockey, he fulfills his true passion by pounding the turf in the heat of a steeplechase. Yet when a fellow rider is brutally murdered—a pitchfork driven through his chest—Mason’s racing hobby soon becomes too close to his work. The prime suspect is one of their brethren, champion jockey Steve Mitchell, and the evidence against him seems overwhelming. 
+
+
+
+ Mason is reluctant to heed Mitchell’s plea for legal help—but he soon finds himself at the center of a sinister web of violence, threats and intimidation. Mason is left fighting a battle of right and wrong, and more immediately, a battle of life and death…his own.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399155338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-24T04:48:42.118000+00:00" name="calibre:timestamp"/>
+        <meta content="Silks" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

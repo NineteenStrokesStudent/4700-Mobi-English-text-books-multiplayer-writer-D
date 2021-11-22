@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">604d4c6d-8dc4-4afc-a197-47e54c2a6211</dc:identifier>
+        <dc:title>The Facebook Effect: The Inside Story of the Company That Is Connecting the World</dc:title>
+        <dc:creator opf:file-as="Kirkpatrick, David" opf:role="aut">David Kirkpatrick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**IN LITTLE MORE THAN HALF A DECADE, **Facebook has gone from a dorm-room novelty to a company with 500 million users. It is one of the fastest growing companies in history, an essential part of the social life not only of teenagers but hundreds of millions of adults worldwide. As Facebook spreads around the globe, it creates surprising effects—even becoming instrumental in political protests from Colombia to Iran. 
+
+Veteran technology reporter David Kirkpatrick had the full cooperation of Facebook’s key executives in researching this fascinating history of the company and its impact on our lives. Kirkpatrick tells us how Facebook was created, why it has flourished, and where it is going next. He chronicles its successes and missteps, and gives readers the most complete assessment anywhere of founder and CEO Mark Zuckerberg, the central figure in the company’s remarkable ascent. This is the Facebook story that can be found nowhere else. 
+
+How did a nineteen-year-old Harvard student create a company that has transformed the Internet and how did he grow it to its current enormous size? Kirkpatrick shows how Zuckerberg steadfastly refused to compromise his vision, insistently focusing on growth over profits and preaching that Facebook must dominate (his word) communication on the Internet. In the process, he and a small group of key executives have created a company that has changed social life in the United States and elsewhere, a company that has become a ubiquitous presence in marketing, altering politics, business, and even our sense of our own identity. This is the Facebook Effect.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439102114</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T04:55:43.336000+00:00" name="calibre:timestamp"/>
+        <meta content="Facebook Effect: The Inside Story of the Company That Is Connecting the World, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;, &quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

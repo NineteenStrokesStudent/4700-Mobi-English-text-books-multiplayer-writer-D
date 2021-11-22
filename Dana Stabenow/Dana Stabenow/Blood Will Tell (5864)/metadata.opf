@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5864</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d706b63-ea8e-4eba-a48c-10b92688b57e</dc:identifier>
+        <dc:title>Blood Will Tell</dc:title>
+        <dc:creator opf:file-as="Stabenow, Dana" opf:role="aut">Dana Stabenow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-09-15T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+When Professor Everett Land is found dead, detective Brandy Mather has a puzzle on her hands. The body is definitely his; dental records confirm his identity. But Professor Land is in his forties and the body is that of a very old man. What could have caused him to age so rapidly? Why is the corpse smiling? Brandy enlists the aid of computer scientist Dan Martin, who is smart, handsome, and anxious to help. Dan is almost too good to be true, and Brandy soon falls in love. But something is off about Dan. . . very off. Brandy’s investigation soon throws her into the midst of small-town politics, bank robberies, and vampires.
+SUMMARY:
+Dana Stabenow once again returns to Alaska, America's last frontier, where her unforgettable Aleut investigator, Kate Shugak, faces one of the most painful cases of her reluctant career. Kate was formerly the star investigator of the Anchorage D.A.'s office; now all she wants to do is enjoy the first weeks of autumn on her isolated homestead. Alone. But duty calls, in the form of Ekaterina Shugak, Kate's grandmother, the imposing matriarch of her extended family. It's the week of the Alaska Federation of Natives Convention, and everyone who's anyone - as well as a few nobodies - has gathered in Anchorage for a week of shopping, gossiping, bragging, and more than a little wheeling and dealing. But there's more happening this year than what's on the official agenda. A vote is coming up on the future of tribal lands, and the arguments are heated. Heated enough to raise suspicions about the recent death of a Native Association board member. Kate has always refused to get involved with tribal politics. But the dead woman was a relative, and the one true weakness Kate Shugak has is for her family. Reluctantly agreeing to investigate, she is drawn into a whirlpool of deceit, lies, and secrets; she is torn not only between the modern world and the traditional, but also between opposing factions within each group. And the more Kate investigates, the more she discovers how deeply she is tied to the land, and to what lengths she will go in order to protect it...
+EDITORIAL REVIEW:
+
+At the request of her grandmother, a matriarch of her Aleut   clan, Kate Shugak travels to Anchorage to investigate the mysterious   deaths of several Council members just before a crucial meeting to   determine the fate of some disputed tribal lands. Reprint. *AB.   *"</dc:description>
+        <dc:publisher>Berkley Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425157985</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Kate Shugak Mystery" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-06T18:43:18.941000+00:00" name="calibre:timestamp"/>
+        <meta content="Blood Will Tell" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

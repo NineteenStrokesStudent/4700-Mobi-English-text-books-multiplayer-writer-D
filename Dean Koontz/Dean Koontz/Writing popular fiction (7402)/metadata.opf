@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7402</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e6be616-87c2-4f21-8471-8608a73a879c</dc:identifier>
+        <dc:title>Writing popular fiction</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-10-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Writer's Digest Hardcover, 1974 2nd printing with 232 pgs., size: 8 3/4" x 5 3/4 approx. - Fan of popular fiction, professional writer, new writer looking for markets-whoever you are, you'll enjoy this book. It takes you behind the publishing scene and shows you how popular novels-science fiction, mysteries, suspense thrillers, Gothic-romances, adult fantasy, Westerns, and erotica are created and how you can write them too. This book offers you, whatever you write, the chance to perfect your craft while earning income, building your reputation, and experiencing the encouragement of seeing your work in print. Dean Koontz has sold since 1967, over twenty-four (copyright of this book 1974) popular novels. Before becoming a full-time free-lance writer, he worked as a supermarket check out clerk, a drummer in a rock band, a foredt ranger, a tutor for underprivileged children with the Appalachian Poverty Program, and as a suburban school English teacher, among other things.</dc:description>
+        <dc:publisher>Writer's Digest</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780911654219</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-13T07:53:28.264000+00:00" name="calibre:timestamp"/>
+        <meta content="Writing popular fiction" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Reference&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

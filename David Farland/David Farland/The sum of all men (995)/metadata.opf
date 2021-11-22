@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">537da35f-6a73-424b-ad42-4c85db8b0edd</dc:identifier>
+        <dc:title>The sum of all men</dc:title>
+        <dc:creator opf:file-as="Farland, David" opf:role="aut">David Farland</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-04-05T08:53:32.522000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*The Runelords* is that rare book that will remind you why you started  reading fantasy in the first place.  Much of the setting--and even some of  the story--is conventional fantasy fare, but David Farland, aside from  being a masterful storyteller, has built his world around a complex and  thought-provoking social system involving the exchange of "endowments."  Attributes such as stamina, grace, and wit are a currency: a vassal may  help his lord by endowing him with all of his strength, for instance, and  in turn the vassal comes under the lord's care as his "dedicate," too weak  to even walk.  A Runelord might have hundreds of such endowments, giving  him superhuman senses and abilities, but he then must care for the hundreds  that he has deprived of strength, or beauty, or sight.
+
+    *Runelords* excels because this novel idea is not mere window  dressing--Farland uses it to explore fundamental questions of life and  morality.  The story's hero, the young Runelord Gaborn, struggles to define  his role in this "shameful economy" while keeping his commitments to  himself, to his people, to the woman he loves, and to the earth itself.  We  end up asking ourselves the same questions: Should you choose your friends  based on insight or virtue?  Is it better to be just or good?  Competent  fantasy lets you escape to adventure in faraway lands, but exceptional  fantasy makes sure you have something to think about when you get back.  *Runelords* accomplishes the latter. *--Paul Hughes*</dc:description>
+        <dc:publisher>Earthlight</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780671022617</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Runelords" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-02-11T20:12:21+00:00" name="calibre:timestamp"/>
+        <meta content="sum of all men, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

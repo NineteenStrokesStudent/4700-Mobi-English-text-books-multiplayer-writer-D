@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dd6ad76-1502-4de2-ba6e-799d81cecdc7</dc:identifier>
+        <dc:title>The audacity to win: the inside story and lessons of Barack Obama's historic victory</dc:title>
+        <dc:creator opf:file-as="Plouffe, David" opf:role="aut">David Plouffe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-15T19:12:04.708000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The architect of the Obama campaign reveals how it all happened- and how it will revolutionize our politics**
+
+
+
+ David Plouffe not only led the effort that put Barack Obama in the White House, but he also changed the face of politics forever and reenergized the idea of democracy itself. *The Audacity to Win* is his story of that groundbreaking achievement, taking readers inside the remarkable campaign that led to the election of the first African American president.
+
+
+
+ For two years Plouffe worked side by side with Obama, charting the course of the campaign. His is the ultimate insider's tale, revealing both the strategies that delivered Obama to office and how the candidate and campaign handled moments of great challenge and opportunity. Moving from the deliberations about whether to run at all, through the epic primary battle with Hillary Clinton and the general election against John McCain, Plouffe showcases the high-wire gamesmanship that fascinated pundits and the drama and intrigue that captivated a nation.
+
+
+
+ *The Audacity to Win* chronicles the arrival of a new moment in American life at the convergence of digital technology and grassroots organization, and the exciting possibilities revealed by a campaign that in many ways functioned as a $1 billion start-up with laser-like focus and discipline. In this extraordinary book, David Plouffe unfolds one of the most important political stories of our time, one whose lessons are not limited to politics, but reach to the greatest heights of what we dream about for our country and ourselves.</dc:description>
+        <dc:publisher>Viking</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670021338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Politics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-11-24T13:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="audacity to win: the inside story and lessons of Barack Obama's historic victory, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Politics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

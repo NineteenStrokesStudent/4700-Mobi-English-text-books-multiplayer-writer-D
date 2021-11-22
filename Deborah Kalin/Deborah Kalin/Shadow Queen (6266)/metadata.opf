@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ded85b53-7827-445c-a1c0-1ec75039db64</dc:identifier>
+        <dc:title>Shadow Queen</dc:title>
+        <dc:creator opf:file-as="Kalin, Deborah" opf:role="aut">Deborah Kalin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-01T02:30:34.770000+00:00</dc:date>
+        <dc:description>SUMMARY:
+When powerful enemies threaten to destroy her kingdom, Shadow Queen Matilde must pit herself against her family's conqueror to survive - will her vision of doom come true, or will she prevail? A breathtaking novel from a brilliant new voice in fantasy fiction. 'I put out a hand to steady myself as the vision took me. The parquetry floor washed to black . . . As if sparked by the hard glare, a fire burst and raged through the room, the flames hot enough to crisp bones and raise the smell of marrow burning to cinders. And me in the middle, wrapped in the black shroud of the dead.' For Matilde of House of Svanaten, accession to the Turasi throne is long overdue. But her imperious grandmother remains reluctant to hand over power. When Matilde's mysterious aunt, Helena, turns up for the Turasi's most important festival, suspicions abound. Why has Helena suddenly appeared - and accompanied by the despised Ilthean? And what of the Ilthean soldiers massed at the southern border? Hard on Helen's arrival, Matilde is struck by a vision warning of doom. And it isn't long before a powerful enemy strikes at the very heart of power, leaving a trail of death and destruction in his wake. After narrowly surviving the conflagration that shatters her entire world, Matilde must pit herself against her family's conqueror in a battle not just for the throne, but for her very existence. 'Strong, tense, economical yet poetic writing. . . Gripping. Highly recommended.' - Sun Herald. 'Shadow Queen has strong narrative drive, a fiery protagonist and, most importantly, moves at a cracking pace. It's assured writing and well-crafted plot may also win it readers outside the [fantasy] genre.' - Sunday Age</dc:description>
+        <dc:publisher>Allen &amp; Unwin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781741759327</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-24T02:29:15.347000+00:00" name="calibre:timestamp"/>
+        <meta content="Shadow Queen" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

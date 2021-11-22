@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84380536-0682-407c-b2e9-140b122b9f4d</dc:identifier>
+        <dc:title>Lazarus Rising</dc:title>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">David Sherman</dc:creator>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">Dan Cragg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-23T10:33:13.344000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The hugely popular Starfist saga featuring Marines at war in outer space is the only military science fiction series written by real combat vets: David Sherman and Dan Cragg. Now comes the explosive hardcover debut of this series–packed with hell-torn action and blazing adventure.In their fiercest combat yet, the hard-charging Marines of 34th Fleet Initial Strike Team (FIST) have finally won their battle against a full-scale alien invasion of planet Kingdom. But victory over these savage enemies comes at a terrible price, especially for the Marines of Company L’s decimated third platoon. The leader these men would follow into hell itself–Gunnery Sergeant Charlie Bass–was consumed in a fiery ambush that obliterated everything but his dog tags and a few scraps of DNA.On planet Kingdom, citizens try to return to some semblance of normalcy as the military conducts patrols to search out and destroy any remaining alien Skinks. The old government of squabbling religious leaders has been replaced by a ruthless new regime. All power rests with Dominic de Tomas, a depraved despot who will stoop to any means to achieve his vile ends. His reign of terror bodes ill for the fragile planet still reeling from the chaos of war.In a cave in some forgotten Kingdom backwater, several humans slowly regain consciousness. Their minds have been probed repeatedly . . . by whom and for what reason they cannot say, for they’ve been stripped of all memories of themselves and their past lives. In time wounds will heal, but who knows if they will ever fully recover.For now, finding food and water takes precedence. And so these half-dead outcasts begin a journey into the unknown–in search of civilization, in search of themselves. And one survivor’s journey will take him to places of overwhelming danger, where his identity will be revealed to the shock of all.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345443731</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Starfist" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-02T10:24:02.800000+00:00" name="calibre:timestamp"/>
+        <meta content="Lazarus Rising" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f33c88c8-4278-45a2-a583-88ba80367e34</dc:identifier>
+        <dc:title>Double Jeopardy</dc:title>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">David Sherman</dc:creator>
+        <dc:creator opf:file-as="Cragg, Dan" opf:role="aut">Dan Cragg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-15T10:34:08.075000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The thrilling pace of the Starfist space epic quickens as the explosive series rockets to dazzling new heights, packed with the hell-for-leather action only two battle-hardened and decorated combat vets like David Sherman and Dan Cragg can provide.The Confederation has finally disclosed the existence of Skinks, fierce aliens bent on wiping out humankind, and announced its plan to find and destroy their home world. While the rest of the universe grapples with the news, the Skink-savvy Marines of the Confederation's Thirty-fourth Fleet Initial Strike Team (FIST) have their own take on the situation.Though they're no longer in danger of being exiled to a ghastly netherworld for spilling the beans about the deadly aliens, the men still can't transfer out of the unit where they've been confined since they first laid eyes on the Skinks. The reason is obvious: Who else but the legendary Thirty-fourth FIST has the skills and experience to spearhead the invasion of the Skinks' home world? Morale isn't improved by a report of Skinks on the uncolonized world of Ishtar near a mercenary force engaged in slave-driven mining operations there—which means that FIST must turn around and head right back into the jaws of hell with no downtime. But none of that matters to Lieutenant Charlie Bass and the third platoon of Company L. They're Marines, they're the best, and they've got a job to do.  The Marines will find a planet ripped apart by all-out war, with enemies on all sides. The only certainty is that the fighting will rage red-hot and relentless, and Charlie Bass and his men will be right in the thick of the action.</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345501011</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Starfist" name="calibre:series"/>
+        <meta content="14" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T10:30:03.083000+00:00" name="calibre:timestamp"/>
+        <meta content="Double Jeopardy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

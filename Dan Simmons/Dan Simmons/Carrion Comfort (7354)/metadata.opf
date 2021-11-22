@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7fc282f0-370d-4871-9bf9-26c21e19ba0c</dc:identifier>
+        <dc:title>Carrion Comfort</dc:title>
+        <dc:creator opf:file-as="Simmons, Dan" opf:role="aut">Dan Simmons</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-24T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+“CARRION COMFORT is one of the three greatest horror novels of the 20th century. Simple as that.” --**Stephen King**
+
+
+
+"Epic in scale and scope but intimately disturbing, CARRION COMFORT spans the ages to rewrite history and tug at the very fabric of reality. A nightmarish chronicle of predator and prey that will shatter your world view forever.  A true classic." --**Guillermo del Toro**
+
+"CARRION COMFORT* *is one of the scariest books ever written.  Whenever I get the question asked *Who's your favorite author? *my answer is always Dan Simmons." --**James Rollins**
+
+"One of the few major reinventions of the vampire concept, on a par with Jack Finney’s *Invasion of the Body Snatchers*, Richard Matheson’s *I Am Legend*, and Stephen King’s *Salem’s Lot*. --**David Morrell**
+
+THE PAST...  Caught behind the lines of Hitler’s Final Solution, Saul Laski is one of the multitudes destined to die in the notorious Chelmno extermination camp.  Until he rises to meet his fate and finds himself face to face with an evil far older, and far greater, than the Nazi’s themselves…
+
+THE PRESENT...  Compelled by the encounter to survive at all costs, so begins a journey that for Saul will span decades and cross continents, plunging into the darkest corners of 20th century history to reveal a secret society of beings who may often exist behind the world's most horrible and violent events.  Killing from a distance, and by darkly manipulative proxy, they are people with the psychic ability to 'use' humans: read their minds, subjugate them to their wills, experience through their senses, feed off their emotions, force them to acts of unspeakable aggression.  Each year, three of the most powerful of this hidden order meet to discuss their ongoing campaign of induced bloodshed and deliberate destruction.  But this reunion, something will go terribly wrong. Saul’s quest is about to reach its elusive object, drawing hunter and hunted alike into a struggle that will plumb the depths of mankind’s attraction to violence, and determine the future of the world itself…</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312567071</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-11T10:37:29.834000+00:00" name="calibre:timestamp"/>
+        <meta content="Carrion Comfort" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">595024c5-a660-4850-a5ad-1740cc6325ca</dc:identifier>
+        <dc:title>Odd Hours</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-28T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Only a handful of fictional characters are recognized by first name alone. Dean Koontz’s Odd Thomas is one of those rare literary heroes who have come alive in readers’ imaginations as he explores the greatest mysteries of this world and the next with his inimitable wit, heart, and quiet gallantry. Now Koontz follows Odd as he is irresistibly drawn onward to a destiny he cannot imagine and to undreamed of places where the perils he will face and the stakes for which he fights will eclipse all that he has known. The legend began in the obscure little town of Pico Mundo. A fry cook named Odd was rumored to have the extraordinary ability to communicate with the dead. Through tragedy and triumph, exhilaration and heartbreak, word of Odd Thomas’s gifts filtered far beyond Pico Mundo, attracting unforgettable new friends—and enemies of implacable evil. With great gifts comes the responsibility to meet great challenges. But no mere human being was ever meant to face the darkness that now stalks the world—not even one as oddly special as Odd Thomas. After grappling with the very essence of reality itself, after finding the veil that separates him from his soul mate, Stormy Llewellyn, tantalizingly thin yet impenetrable, Odd longed only to return to a life of quiet anonymity with his two otherworldly sidekicks—his dog Boo and a new companion, one of the few who might rival his old pal Elvis. But a true hero, however humble, must persevere. Haunted by dreams of an all-encompassing red tide, Odd is pulled inexorably to the sea, to a small California coastal town where nothing is as it seems. Now the forces arrayed against him have both official sanction and an infinitely more sinister authority…and in this dark night of the soul dawn will come only after the most shattering revelations of all.Burnishing Dean Koontz’s stature as a master of suspense and one of our most innovative and gifted storytellers, Odd Hours illuminates a legacy of mystery and hope that will shine on long after the final page.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553591705</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Odd Thomas Novels" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:07:38.998000+00:00" name="calibre:timestamp"/>
+        <meta content="Odd Hours" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

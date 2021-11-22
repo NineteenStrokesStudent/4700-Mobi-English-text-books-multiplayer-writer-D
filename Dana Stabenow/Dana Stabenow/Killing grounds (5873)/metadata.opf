@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25762939-eca3-4f00-a9df-cba6137d8704</dc:identifier>
+        <dc:title>Killing grounds</dc:title>
+        <dc:creator opf:file-as="Stabenow, Dana" opf:role="aut">Dana Stabenow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-03-01T05:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Like Nevada Barr, Dana   Stabenow writes mysteries so firmly rooted  in the natural world that their sense of place becomes a vital part of the  plot. In this book about Native Alaskan crime solver Kate Shugak, the  ocean and the men who fish it for salmon are described in such vivid detail  that you'll never look at a salmon steak the same way again. When a  particularly nasty fisherman is murdered, there's no end of suspects--including members of Kate's own   family. The story also sports a richly  ironic undertone of political incorrectness, as Kate muses about the forest  rangers, "who wanted to annex every square foot of land they saw and keep it  pristine and inviolate, unsullied by human hand. They failed to recall that  the indigenous peoples who came across the Bering land bridge during the  last Ice Age had their hands all over anything that had the remotest  possibility of nutritional value, and were every bit as much of the  landscape and the wheel of life as the fish and the birds and the mammals."  Previous Shugak sorties in paperback include *Breakup*, *Blood Will  Tell*, *Play with Fire*, and *A Cold-Blooded Business*.
+SUMMARY:
+Summer in Alaska is synonymous with salmon, and the latest Kate Shugak mystery finds our heroine up to her ears in chinooks and chicanery."Every time I think Ms. Stabenow has gotten as good as she can get, she comes up with something better. Wrap your ribs for safety, find a place where you will not be disturbed for a couple of hours, and indulge yourself", The Washington Times advised its readers in its review of Breakup. In Killing Grounds, Kate finds that commercial fishing can be a deadly business.Deckhanding for Old Sam Dementieff on board the fishing tender Freya, Kate helps haul in salmon, halibut, and the body of a widely disliked fisherman, whose apparent murder is greeted with such boisterous rejoicing that she's unsure whether to arrest the killer or give him a medal.Drafted by State Trooper Jim Chopin to assist in the investigation, Kate draws up a list of suspects that includes the dead man's troubled teenaged son and daughter, his not-so-grief-stricken widow, and half the skippers of the fishing fleet. At the same time, Kate's Aleut aunties, attending a fish camp on Amartuq Creek, are mixed up in some fishy dealings of their own, which Kate must prove do not include murder. A coterie of colorful supporting characters, including a Native American-wannabe, an idealistic fish hawk, and a Presbyterian minister, alternately hinder and help Kate's investigation.With the attention to the details and difficulties of Alaskan life and another o</dc:description>
+        <dc:publisher>New York : G.P. Putnam's Sons, c1998.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399143564</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Kate Shugak Mystery" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-06T19:02:21.746000+00:00" name="calibre:timestamp"/>
+        <meta content="Killing grounds" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

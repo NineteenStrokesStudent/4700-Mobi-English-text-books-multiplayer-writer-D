@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">320c5f60-9dc5-4de2-ae55-093e26b13672</dc:identifier>
+        <dc:title>Drive: The Surprising Truth About What Motivates Us</dc:title>
+        <dc:creator opf:file-as="Pink, Daniel H." opf:role="aut">Daniel H. Pink</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-15T17:17:03.195000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Forget everything you thought you knew about how to motivate people--at work, at school, at home. It's wrong. As Daniel H. Pink explains in his new and paradigm- shattering book *Drive: The Surprising Truth About What Motivates Us*, the secret to high performance and satisfaction in today's world is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world. 
+
+
+
+ Drawing on four decades of scientific research on human motivation, Pink exposes the mismatch between what science knows and what business does--and how that affects every aspect of our lives. He demonstrates that while the old-fashioned carrot-and-stick approach worked successfully in the 20th century, it's precisely the *wrong* way to motivate people for today's challenges. In *Drive*, he reveals the three elements of true motivation: 
+
+
+
+ ***Autonomy**- the desire to direct our own lives 
+
+ ***Mastery**- the urge to get better and better at something that matters 
+
+ ***Purpose**- the yearning to do what we do in the service of something larger than ourselves 
+
+
+
+ Along the way, he takes us to companies that are enlisting new approaches to motivation and introduces us to the scientists and entrepreneurs who are pointing a bold way forward. 
+
+
+
+ *Drive* is bursting with big ideas-- the rare book that will change how you think and transform how you live.</dc:description>
+        <dc:publisher>Riverhead Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594488849</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-03T17:05:05.831000+00:00" name="calibre:timestamp"/>
+        <meta content="Drive: The Surprising Truth About What Motivates Us" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Self-Help&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

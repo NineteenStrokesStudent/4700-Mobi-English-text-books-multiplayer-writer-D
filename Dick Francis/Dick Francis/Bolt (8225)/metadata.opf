@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">353396b4-29d8-42ad-b20b-91ed90ec4240</dc:identifier>
+        <dc:title>Bolt</dc:title>
+        <dc:creator opf:file-as="Francis, Dick" opf:role="aut">Dick Francis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-03T19:08:59.509343+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;In his smashing sequel to Break In, Francis shows his old racing colors to advantage. Champion jockey Kit Fielding again proves his mettle when Henri Nanterre, the ruthless business partner of his fiancee's uncle, tries to convert their road construction company into an armaments enterprise. Nanterre threatens the life of Princess Casilia, his partner's wife, who also owns many of Kit's mounts. Nanterre is foiled, but then some of the princess's horses are found dead, killed, ironically, by captive-bullet bolt guns designed for "humane" deaths. Next come several near-lethal attacks against humans, including Kit's Danielle, and our Kit must devise a plan to thwart Nanterre for good. Soon Danielle has second thoughts about sharing the dangers of a steeplechaser's life. Maynard Allardeck, racing steward and hereditary enemy of the Fielding family, reappears and makes Kit's life even more difficult. The characterization isn't especially profound, but the plot races along wonderfully well, right up to a jolting twist at the end. BOMC featured alternate; Reader's Digest Condensed Books and Detective Book Club selections. &lt;br /&gt;Copyright 1987 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Kit Fielding will do whatever it takes to stop the killing of racehorses. Not an easy task considering that the woman he adores is leaving him, an international arms dealer is threatening him, and Kit's nemesis has plans to knock him off the track--and plant him under it. &lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425202883</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Kit Fielding" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-26T19:06:20.659885+00:00" name="calibre:timestamp"/>
+        <meta content="Bolt" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

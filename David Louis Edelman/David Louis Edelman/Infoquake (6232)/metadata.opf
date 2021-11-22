@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04174c49-71a0-40e4-8307-c7f80eb05fdf</dc:identifier>
+        <dc:title>Infoquake</dc:title>
+        <dc:creator opf:file-as="Edelman, David Louis" opf:role="aut">David Louis Edelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-08T18:36:10.891000+00:00</dc:date>
+        <dc:description>How far should you go to make a profit? Infoquake, the debut novel by David Louis Edelman, takes speculative fiction into alien territory: the corporate boardroom of the far future. It’s a stunning trip through the trenches of a technological war fought with product demos, press releases, and sales pitches.     
+
+Natch is a master of bio/logics, the programming of the human body. He’s clawed and scraped his way to the top of the bio/logics market using little more than his wits. Now his sudden notoriety has brought him to the attention of Margaret Surina, the owner of a mysterious new technology called MultiReal. Only by enlisting Natch’s devious mind can Margaret keep MultiReal out of the hands of High Executive Len Borda and his ruthless armies.     
+
+To fend off the intricate net of enemies closing in around him, Natch and his apprentices must accomplish the impossible. They must understand this strange new technology, run through the product development cycle, and prepare MultiReal for release to the public—all in three days.     
+
+Meanwhile, hanging over everything is the specter of the infoquake, a lethal burst of energy that’s disrupting the bio/logic networks and threatening to send the world crashing back into the Dark Ages.     
+
+With Infoquake, David Louis Edelman has created a fully detailed world that’s both as imaginative as Dune and as real as today’s Wall Street Journal.</dc:description>
+        <dc:publisher>Pyr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781591024422</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Jump 225" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-19T23:31:50.286000+00:00" name="calibre:timestamp"/>
+        <meta content="Infoquake" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

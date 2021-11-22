@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67c4a4b6-0578-4021-b2d4-d81ac489fd68</dc:identifier>
+        <dc:title>Beneath a Southern Sky</dc:title>
+        <dc:creator opf:file-as="Raney, Deborah" opf:role="aut">Deborah Raney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T02:30:44.061000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Her Second Husband Healed the Sorrow of a Tragic Loss. Her First Has Just Returned from the Dead.Which Man Has the Right to Claim Daria’s Heart?After two years of serving as a missionary in a remote area of South America, Daria Camfield has returned to the States to mourn her husband, reportedly killed while providing medical aid to a neighboring Colombian village. One family discovers how God can redeem any tragedy.At first, Daria finds comfort only in the daughter born to her after Nate’s tragic death. As she begins to heal, she also finds a listening ear and a tender heart in her new boss, veterinarian Colson Hunter. Determined to move forward with life, Daria ignores the still small voice calling her to wait and accepts Cole’s marriage proposal. But after the wedding, Daria’s new dream life turns into a nightmare with the arrival of an unbelievable telegram: “Nathan Camfield found alive. Flying into K.C. Int’l. via Bogota…”Now two men have the right to her daughter, her life, and her love. Will Daria return to her beloved first husband, abandoning Cole? Or will she reject Nate and choose the only man her daughter has ever called “Daddy”--a man she has come to cherish with all her heart?</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307458766</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Religous</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-24T02:29:18.249000+00:00" name="calibre:timestamp"/>
+        <meta content="Beneath a Southern Sky" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Religous&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bc6f902-f57a-49d8-a570-7008049da68d</dc:identifier>
+        <dc:title>The Black Nile</dc:title>
+        <dc:creator opf:file-as="Morrison, Dan" opf:role="aut">Dan Morrison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-17T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+A spectacular modern-day adventure along the Nile River from Lake Victoria to the Mediterranean Sea
+With news of tenuous peace in Sudan, foreign correspondent Dan Morrison bought a plank-board boat, summoned a childhood friend who'd never been off American soil and set out from Uganda, paddling the White Nile on a quest to reach Cairo-a trip that tyranny and war had made impossible for decades.
+Morrison's chronicle is a mashup of travel narrative and reportage, packed with flights into the frightful and the absurd. Through river mud that engulfs him and burning marshlands that darken the sky, he tracks the snarl of commonalities and conflicts that bleed across the Nile valley, bringing to life the waters that connect the hardscrabble fishing villages of Lake Victoria to the floating Cairo nightclubs where headscarved mothers are entertained by gyrating male dancers. In between are places and lives invisible to cable news and opinion blogs: a hidden oil war that has erased entire towns, secret dams that will flood still more and contested borderlands where acts of compassion and ingenuity defy appalling hardship and waste of life. As Morrison dodges every imaginable hazard, from militia gunfire to squalls of sand, his mishaps unfold in strange harmony with the breathtaking range of individuals he meets along the way. Relaying the voices of Sudanese freedom fighters and escaped Ugandan sex slaves, desert tribesmen and Egyptian tomb raiders, The Black Nile culminates in a visceral understanding of one of the world's most elusive hotspots, where millions strive to claw their way from war and poverty to something better-if only they could agree what that something is, whom to share it with, and how to get there.
+With the propulsive force of a thriller, The Black Nile is rife with humor, humanity and fervid insight-an unparalleled portrait of a complex territory in profound transition.
+"Part travelogue, part crazy adventure tale, part political reportage . . . Morrison's African river journey is a paradoxical mixture of awe-inspiring discoveries, eye-opening human interactions and perilous escapes."
+-Chuck Leddy, Minneapolis Star-Tribune
+"An unorthodox travelogue . . . packed with illuminating, gritty detail."
+-Kirkus
+"Dan Morrison takes the reader on an incredible journey in The Black Nile. Weaving together intense travel writing and history, he has produced a supremely entertaining work, and also an important one."
+-David Grann, best-selling author of The Lost City of Z and The Devil and Sherlock Holmes
+"Dan Morrison is too young to have been part of the Gonzo movement. But if Hunter Thompson decided to travel the Nile, from its Ugandan source to Alexandria, encountering gun-toting whackos, crazed religious zealots, scary profiteers and a rich cast of characters in one of the world's most contested regions-well, I think he would have loved to share his trek with Morrison. Fasten your seat belts, readers!"
+-Laurie Garrett, Pulitzer Prize winner and author of The Coming Plague
+"Part On the Road, part Fear and Loathing in Africa, Dan Morrison takes us with him on his journey down the Nile-teaching us, by example, to be explorers of both the world and ourselves."
+-Kevin Sites, author of In the Hot Zone
+"The Black Nile reveals a traveler of dark humor and insight, equal parts Paul Theroux and Bill Buford."
+-Robert Twigger, author of Dr. Ragab's Universal Language and Angry White Pyjamas
+"The only thing more vivid would be traveling the river yourself. Then again, you may be a little more skittish about contested borders, rampaging militias and tiny plank-board boats than Dan Morrison is. The Black Nile is eye- opening, breath-taking, heart-pounding and, frankly, all the adventure I'm up for now."
+-Ellis Henican, Fox News Channel</dc:description>
+        <dc:publisher>Viking Adult</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670021987</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-08T20:24:22.696000+00:00" name="calibre:timestamp"/>
+        <meta content="Black Nile, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Travel&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

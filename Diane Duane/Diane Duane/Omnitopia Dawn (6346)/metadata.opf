@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29e8e9df-67ff-4f59-b28e-1af612050cd0</dc:identifier>
+        <dc:title>Omnitopia Dawn</dc:title>
+        <dc:creator opf:file-as="Duane, Diane" opf:role="aut">Diane Duane</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-03T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A near-future techno-thriller from *New York Times* bestselling author Diane Duane. ** 
+
+
+
+ It's the first quarter of the twenty-first century, and "massively multiplayer" on-line games have been around for a couple of decades. In an increasingly wired and computer-friendly world they've become a form of entertainment so popular they're giving television and films a run for the money. And the most popular gaming universe of all is Omnitopia, created by genius programmer Dev Logan. 
+
+
+
+ For millions of people around the world, Omnitopia is an obsession, a passionate pastime, almost a way of life. Omnitopia is a virtual place where dreams come true-players can create their own universes within the game's structure, and participate in the profits if their piece of the universe is a hit. Ten million players routinely play in Omnitopia, and at any given time, nearly a million of them are on-line, living in a world more real to them then their own. 
+
+
+
+ Worldwide, Omnitopia is now as much a culture as a game. Participants can become involved in it in a hundred different ways. Some game as if their lives depended on it, spending thousands of hours, or thousands of dollars, or both, on quests in search of "game glory" among their fellow players.  Some game only to acquire sufficient in-game "value" to become entitled to become subcreators themselves, able to build new levels and start raking in the so-called "one percent of infinity" which is the leveler's share of the profits. But there are also people who don't game at all, preferring to use the massive platform simply to explore its worlds, or to interact with other participants. Some people do nothing but design on-line weapons and other items for Omnitopia gamers, and sell them-or act as brokers, buying and selling game artifacts to order. Some subcreators do the same kind of design and creation, but for tailored Microcosms or slices of them: these are the "unreal estate" dealers.  Some players speculate in game "gold" on the success or popularity of Microcosms, rather than actually playing in them. And of course there are thieves and swindlers, cheaters who live to find the loophole in the game that will outside it in the real world. 
+
+
+
+ Now Dev and his people are preparing to rollout a major new expansion to the Omnitopia system.  And even as players, staff, the media, and the heavy hitters on the world financial scene wait eagerly for this fast-approaching and momentous event, there are others preparing to play a very different game-one that is meant to strike at the heart of Omnitopia and bring the entire system crashing down....</dc:description>
+        <dc:publisher>Penguin Group USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780756406233</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-25T05:28:50.959000+00:00" name="calibre:timestamp"/>
+        <meta content="Omnitopia Dawn" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

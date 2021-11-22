@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a99972d-059c-49c1-9add-86841a205abb</dc:identifier>
+        <dc:title>Wench: a novel</dc:title>
+        <dc:creator opf:file-as="Perkins-Valdez, Dolen" opf:role="aut">Dolen Perkins-Valdez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+An ambitious and startling debut novel that follows the lives of four women at a resort popular among slaveholders who bring their enslaved mistresses 
+
+wench \'wench\ *n*. from Middle English "*wenchel*," 1 a: a girl, maid, young woman; a female child.  
+
+Tawawa House in many respects is like any other American resort before the Civil War. Situated in Ohio, this idyllic retreat is particularly nice in the summer when the Southern humidity is too much to bear. The main building, with its luxurious finishes, is loftier than the white cottages that flank it, but then again, the smaller structures are better positioned to catch any breeze that may come off the pond. And they provide more privacy, which best suits the needs of the Southern white men who vacation there every summer with their black, enslaved mistresses. It's their open secret. 
+
+Lizzie, Reenie, and Sweet are regulars at Tawawa House. They have become friends over the years as they reunite and share developments in their own lives and on their respective plantations. They don't bother too much with questions of freedom, though the resort is situated in free territory–but when truth-telling Mawu comes to the resort and starts talking of running away, things change. 
+
+To run is to leave behind everything these women value most–friends and families still down South–and for some it also means escaping from the emotional and psychological bonds that bind them to their masters. When a fire on the resort sets off a string of tragedies, the women of Tawawa House soon learn that triumph and dehumanization are inseparable and that love exists even in the most inhuman, brutal of circumstances–all while they are bearing witness to the end of an era. 
+
+An engaging, page-turning, and wholly original novel, *Wench* explores, with an unflinching eye, the moral complexities of slavery.</dc:description>
+        <dc:publisher>Amistad</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061706547</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T04:45:12.602000+00:00" name="calibre:timestamp"/>
+        <meta content="Wench: a novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

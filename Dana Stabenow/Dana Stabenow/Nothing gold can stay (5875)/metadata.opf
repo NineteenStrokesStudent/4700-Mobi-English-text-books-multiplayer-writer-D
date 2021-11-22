@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5875</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd609dbe-beeb-4b1a-a9ad-66c0ee158844</dc:identifier>
+        <dc:title>Nothing gold can stay</dc:title>
+        <dc:creator opf:file-as="Stabenow, Dana" opf:role="aut">Dana Stabenow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-09-06T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+"An accomplished writer... Stabenow places you right in this lonely, breathtaking country...so beautifully evoked it serves as another character." (*Publishers Weekly*)  Shocked by a series of brutal, unexplainable murders, Alaska State Trooper Liam Campbell embarks on a desperate journey into the heart of the Alaskan Bush country-in search of the terrible, earth-shattering truth...
+
+
+SUMMARY:
+Described as "an accomplished writer whose books...are always entertaining",* Dana Stabenow once again captures the icy essence of the Alaskan bush country -- a place haunted by loneliness, mystery, and soul-chilling fear. . . .Banished to a remote posting on the shores of Bristol Bay, Alaska State Trooper Liam Campbell has just started to get his life -- and his career -- back on track. His new assistant is proving herself an apt, able investigator, and his perpetually rocky relationship with pilot Wyanet Chouinard is finally going smoothly -- until Wy finds a dead body on one of her frequent mail runs. Was it merely a robbery gone wrong? Liam has his doubts -- the evidence is sketchy, at best. And when more bodies turn up, he must embark on a desperate journey into the heart of this wild, ravaged country -- in search of the terrible, earth-shattering truth....</dc:description>
+        <dc:publisher>New York : Dutton, c2000.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451202307</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Liam Campbell" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-21T10:54:41.283000+00:00" name="calibre:timestamp"/>
+        <meta content="Nothing gold can stay" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

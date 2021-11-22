@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4eaa08a-f604-4b1d-850c-d0d9b5e02153</dc:identifier>
+        <dc:title>Me and Kaminski</dc:title>
+        <dc:creator opf:file-as="Kehlmann, Daniel" opf:role="aut">Daniel Kehlmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-18T06:26:51.519000+00:00</dc:date>
+        <dc:description>SUMMARY:
+From the internationally best-selling author Daniel Kehlmann, a provocative and wickedly funny novel about two unpredictable menone an artist and the other a journalist, who together embark on an unexpected adventure with uproarious results. Sebastian Zollner's failure as a journalist is matched only by his personal failures: his girlfriend is moving in a new lover before Sebastian even knows he's been dumped. Searching for the break that will redeem him in the eyes of his peers, he heads off on a wild goose chase into the mountains to interview the eccentric, legendary painter Manuel Kaminski, with the hope of writing his biography. Kaminski is going blind and is living in seclusion with his daughter. He could be working on his next masterpiece or easing into his final days, and his inconsistent career raises the question of whether he has been a fraud or a genius. His artistic reputation hinges on any number of factors but most prominently on a definitive biography. Enter Zollnerwho has no intention of writing a puff piece. He's out to dig dirt and to force Kaminski to confront the legacy of his work. But the secrets he uncovers will lead Kaminski, and Zollner himself, to places neither of them ever expected to go. With edgy wit and intelligence, Daniel Kehlmann dives into the problems of what is "truth" in our celebrity-crazed times and embraces the energy and humanity that lie beneath the pretensions of the art and journalistic worlds. A firecracker of a novel. From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307377449</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-21T06:25:12.868000+00:00" name="calibre:timestamp"/>
+        <meta content="Me and Kaminski" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

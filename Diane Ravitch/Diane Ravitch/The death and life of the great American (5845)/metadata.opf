@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d2a8d50-f4c9-42c0-9209-fb75556d627e</dc:identifier>
+        <dc:title>The death and life of the great American school system: how testing and choice are undermining education</dc:title>
+        <dc:creator opf:file-as="Ravitch, Diane" opf:role="aut">Diane Ravitch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A passionate plea to preserve and renew public education, *The Death and Life of the Great American School System* is a radical change of heart from one of America’s best-known education experts. 
+
+ 
+
+ Diane Ravitch—former assistant secretary of education and a leader in the drive to create a national curriculum—examines her career in education reform and repudiates positions that she once staunchly advocated. Drawing on over forty years of research and experience, Ravitch critiques today’s most popular ideas for restructuring schools, including privatization, standardized testing, punitive accountability, and the feckless multiplication of charter schools. She shows conclusively why the business model is not an appropriate way to improve schools. Using examples from major cities like New York, Philadelphia, Chicago, Denver, and San Diego, Ravitch makes the case that public education today is in peril.
+
+ 
+
+ Ravitch includes clear prescriptions for improving America’s schools:       leave decisions about schools to educators, not politicians or businessmen     devise a truly national curriculum that sets out what children in every grade should be *learning*     expect charter schools to educate the kids who need help the most, not to compete with public schools     pay teachers a fair wage for their work, not “merit pay” based on deeply flawed and unreliable test scores     encourage family involvement in education from an early age  *The Death and Life of the Great American School System* is more than just an analysis of the state of play of the American education system. It is a must-read for any stakeholder in the future of American schooling.</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780465014910</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T21:46:26.240000+00:00" name="calibre:timestamp"/>
+        <meta content="death and life of the great American school system: how testing and choice are undermining education, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

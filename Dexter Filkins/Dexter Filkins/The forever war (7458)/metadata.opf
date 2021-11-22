@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a11283bb-2d04-4ddb-b903-29cdc463a57d</dc:identifier>
+        <dc:title>The forever war</dc:title>
+        <dc:creator opf:file-as="Filkins, Dexter" opf:role="aut">Dexter Filkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-16T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+From the front lines of the battle against Islamic fundamentalism, a searing, unforgettable book that captures the human essence of the greatest conflict of our time. Through the eyes of Dexter Filkins, the prizewinningNew York Timescorrespondent whose work was hailed by David Halberstam as "reporting of the highest quality imaginable," we witness the remarkable chain of events that began with the rise of the Taliban in the 1990s, continued with the attacks of 9/11, and moved on to the wars in Afghanistan and Iraq. Filkins's narrative moves across a vast and various landscape of amazing characters and astonishing scenes: deserts, mountains, and streets of carnage; a public amputation performed by Taliban; children frolicking in minefields; skies streaked white by the contrails of B-52s; a night's sleep in the rubble of Ground Zero. We embark on a foot patrol through the shadowy streets of Ramadi, venture into a torture chamber run by Saddam Hussein. We go into the homes of suicide bombers and into street-to-street fighting with a battalion of marines. We meet Iraqi insurgents, an American captain who loses a quarter of his men in eight days, and a young soldier from Georgia on a rooftop at midnight reminiscing about his girlfriend back home. A car bomb explodes, bullets fly, and a mother cradles her blinded son. Like no other book,The Forever Warallows us a visceral understanding of today's battlefields and of the experiences of the people on the ground, warriors and innocents alike. It is a brilliant, fearless work, not just about America's wars after 9/11, but ultimately about the nature of war itself.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307266392</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-15T17:55:35.252000+00:00" name="calibre:timestamp"/>
+        <meta content="forever war, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

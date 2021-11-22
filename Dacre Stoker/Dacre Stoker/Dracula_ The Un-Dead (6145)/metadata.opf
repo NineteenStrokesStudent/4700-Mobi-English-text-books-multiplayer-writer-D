@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">528d7ddf-0bba-4c26-8b80-049db3dff405</dc:identifier>
+        <dc:title>Dracula: The Un-Dead</dc:title>
+        <dc:creator opf:file-as="Stoker, Dacre &amp; Holt, Ian" opf:role="aut">Dacre Stoker</dc:creator>
+        <dc:creator opf:file-as="Stoker, Dacre &amp; Holt, Ian" opf:role="aut">Ian Holt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The official sequel to Bram Stoker's classic novel Dracula, written by his direct descendent and endorsed by the Stoker familyThe story begins in 1912, twenty-five years after the events described in the original novel. Dr. Jack Seward, now a disgraced morphine addict, hunts vampires across Europe with the help of a mysterious benefactor. Meanwhile, Quincey Harker, the grown son of Jonathan and Mina, leaves law school to pursue a career in stage at London's famous Lyceum Theatre.The production of Dracula at the Lyceum, directed and produced by Bram Stoker, has recently lost its star. Luckily, Quincey knows how to contact the famed Hungarian actor Basarab, who agrees to take the lead role.Quincey soon discovers that the play features his parents and their former friends as characters, and seems to reveal much about the terrible secrets he's always suspected them of harbouring. But, before he can confront them, Jonathan Harker is found murdered.The writers were able to access Bram Stoker's hand-written notes and have included in their story characters and plot threads that had been excised by the publisher from the original printing over a century ago.Dracula is one of the most recognized fictional characters in the world, having spawned dozens of multi-media spin-offs. The Un-Dead is the first Dracula story to enjoy the full support of the Stoker estate since the original 1931 movie starring Bela Lugosi.</dc:description>
+        <dc:publisher>HarperCollins Publishers Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007310340</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T10:08:11.300000+00:00" name="calibre:timestamp"/>
+        <meta content="Dracula: The Un-Dead" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

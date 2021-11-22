@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5aeadec7-b3a9-4a85-92f6-2b9af74378ba</dc:identifier>
+        <dc:title>Layover in Dubai</dc:title>
+        <dc:creator opf:file-as="Fesperman, Dan" opf:role="aut">Dan Fesperman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The newest thriller from the author of *The Amateur Spy* and* The Prisoner of Guantánamo* (“Worthy of sharing shelf space with the novels of John le Carré and Ken Follett”—*USA Today)* is as dazzling as its setting.Sam Keller has been enlisted by his V.P. for Corporate Security and Investigation to spy on another employee while they’re traveling for the company. Ordinarily careful to a fault, Sam decides to live it up. What better spot for business-class hedonism than boomtown Dubai, where resort islands materialize from open ocean, fortunes are made overnight, and skiers crisscross the snowy slope of a shopping mall.But when Sam’s charge is murdered during a night on the town, it is only the first in a series of bewildering events that plunge him waist-deep into a lethal mix of mobsters, prostitutes, crooked cops, consuls, and corporate players. Offering a chancy way out is Anwar Sharaf, the unlikeliest of detectives. A former pearl diver and gold smuggler with an undignified demeanor, Sharaf is sometimes as baffled as Sam by the changes to his homeland, especially as they are embodied in the behavior of his rebelliously independent—and hauntingly beautiful—daughter. But he knows where the levers of power reside. As the unlikely duo work their way toward the heart of the case, each man must confront the darkest forces threatening Dubai from within.Here is Dan Fesperman’s most suspenseful novel yet: a stunning portrait of a city whose mysterious rhythm (“like the precision throb of an artificial heart, clicking and insistent, yet cool to the touch”) is underscored by the insistent clashing of old and new.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307268389</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T20:44:47.092000+00:00" name="calibre:timestamp"/>
+        <meta content="Layover in Dubai" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

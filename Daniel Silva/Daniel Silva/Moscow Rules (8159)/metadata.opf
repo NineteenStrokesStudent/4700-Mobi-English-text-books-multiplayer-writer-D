@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00fdf57d-ab51-458e-9cf6-770ab9c35cd0</dc:identifier>
+        <dc:title>Moscow Rules</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-06T23:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**The extraordinary new Gabriel Allon novel from the “gold standard” (*The Dallas Morning News*) of thriller writers**.
+
+
+
+ Over the course of ten previous novels, Daniel Silva has established himself as one of the world’s finest writers of international intrigue and espionage— “a worthy successor to such legends as Frederick Forsyth and John le Carré” (*Chicago Sun-Times*)—and Gabriel Allon as “one of the most intriguing heroes of any thriller series” (*The Philadelphia Inquirer*).
+
+
+
+ Now the death of a journalist leads Allon to Russia, where he finds that, in terms of spycraft, even he has something to learn. He’s playing by Moscow rules now.
+
+
+
+ This is not the grim, gray Moscow of Soviet times but a new Moscow, awash in oil wealth and choked with bulletproof Bentleys. A Moscow where power resides once more behind the walls of the Kremlin and where critics of the ruling class are ruthlessly silenced. A Moscow where a new generation of Stalinists is plotting to reclaim an empire lost and to challenge the global dominance of its old enemy, the United States.
+
+
+
+ One such man is Ivan Kharkov, a former KGB colonel who built a global investment empire on the rubble of the Soviet Union. Hidden within that empire, however, is a more lucrative and deadly business: Kharkov is an arms dealer—and he is about to deliver Russia’s most sophisticated weapons to al- Qaeda. Unless Allon can learn the time and place of the delivery, the world will see the deadliest terror attacks since 9/11—and the clock is ticking fast.
+
+
+
+ Filled with rich prose and breathtaking turns of plot, *Moscow Rules* is at once superior entertainment and a searing cautionary tale about the new threats rising to the East—and Silva’s finest novel yet.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451227386</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Gabriel Allon" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-25T01:49:55.223769+00:00" name="calibre:timestamp"/>
+        <meta content="Moscow Rules" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

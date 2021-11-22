@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2fff83-c58a-4968-a16f-1fbcd072dc87</dc:identifier>
+        <dc:title>Forever Odd</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-31T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Every so often a character so captures the hearts and imaginations of readers that he seems to take on a life of his own long after the final page is turned. For such a character, one book is not enough—readers must know what happens next. Now Dean Koontz returns with the novel his fans have been demanding. With the emotional power and sheer storytelling artistry that are his trademarks, Koontz takes up once more the story of a unique young hero and an eccentric little town in a tale that is equal parts suspense and terror, adventure and mystery—and altogether irresistibly odd.We’re all a little odd beneath the surface. He’s the most unlikely hero you’ll ever meet—an ordinary guy with a modest job you might never look at twice. But there’s so much more to any of us than meets the eye—and that goes triple for Odd Thomas. For Odd lives always between two worlds in the small desert town of Pico Mundo, where the heroic and the harrowing are everyday events. Odd never asked to communicate with the dead—it’s something that just happened. But as the unofficial goodwill ambassador between our world and theirs, he’s got a duty to do the right thing. That’s the way Odd sees it and that’s why he’s won hearts on both sides of the divide between life and death.A childhood friend of Odd’s has disappeared. The worst is feared. But as Odd applies his unique talents to the task of finding the missing person, he discovers something worse than a dead body, encounters an enemy of exceptional cunning, and spirals into a vortex of terror. Once again Odd will stand against our worst fears. Around him will gather new allies and old, some living and some not. For in the battle to come, there can be no innocent bystanders, and every sacrifice can tip the balance between despair and hope. Whether you’re meeting Odd Thomas for the first time or he’s already an old friend, you’ll be led on an unforgettable journey through a world of terror, wonder and delight—to a revelation that can change your life. And you can have no better guide than Odd Thomas.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553588262</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Odd Thomas Novels" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:07:38.062000+00:00" name="calibre:timestamp"/>
+        <meta content="Forever Odd" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22882810-4ffc-4ee8-896d-9a8a702c9c29</dc:identifier>
+        <dc:title>Brother Odd</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-30T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*Loop me in, odd one. *The words, spoken in the deep of night by a sleeping child, chill the young man watching over her. For this was a favorite phrase of Stormy Llewellyn, his lost love, and Stormy is dead, gone forever from this world. In the haunted halls of the isolated monastery where he had sought peace, Odd Thomas is stalking spirits of an infinitely darker natureThrough two *New York Times* bestselling novels Odd Thomas has established himself as one of the most beloved and unique fictional heroes of our time. Now, wielding all the power and magic of a master storyteller at the pinnacle of his craft, Dean Koontz follows Odd into a singular new world where he hopes to make a fresh beginning—but where he will meet an adversary as old and inexorable as time itself. St. Bartholomew’s Abbey sits in majestic solitude amid the wild peaks of California’s high Sierra, a haven for children otherwise abandoned, and a sanctuary for those seeking insight. Odd Thomas has come here to learn to live fully again, and among the eccentric monks, their other guests, and the nuns and young students of the attached convent school, he has begun to find his way. The silent spirits of the dead who visited him in his earlier life are mercifully absent, save for the bell-ringing Brother Constantine and Odd’s steady companion, the King of Rock 'n' Roll.But trouble has a way of finding Odd Thomas, and it slinks back onto his path in the form of the sinister bodachs he has met previously, the black shades who herald death and disaster, and who come late one December night to hover above the abbey’s most precious charges. For Odd is about to face an enemy who eclipses any he has yet encountered, as he embarks on a journey of mystery, wonder, and sheer suspense that surpasses all that has come before.*******From the Hardcover edition.*</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553589108</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Odd Thomas Novels" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:07:38.548000+00:00" name="calibre:timestamp"/>
+        <meta content="Brother Odd" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

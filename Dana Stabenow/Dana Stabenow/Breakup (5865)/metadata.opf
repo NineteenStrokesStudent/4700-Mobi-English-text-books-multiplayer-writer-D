@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5865</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f350fd0-87ef-48f6-a344-fc55ee14c798</dc:identifier>
+        <dc:title>Breakup</dc:title>
+        <dc:creator opf:file-as="Stabenow, Dana" opf:role="aut">Dana Stabenow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-06-02T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+In Breakup, Kate Shugak's loyalties - to the land, her heritage, her home - are put to the test when a series of mishaps lead to murder. April in Alaska is typically a period of rebirth and renewal, and after the long winter Kate has nothing more strenuous on her agenda than paying her taxes. But mayhem abounds as the meltoff flows; this year's thaw is accompanied by rampaging bears, family feuds, and a plane crash quite literally in Kate's own backyard. What begins as a series of headaches escalates into possible murder when a dead body is found near her homestead. Initially unwilling to involve herself in the investigation, preferring instead to write off each odd occurrence as a breakup-related peculiarity, Kate is drawn irresistibly to seek the truth. Compelled by her friends to act as problem solver and guided by the spirit of her Aleut grandmother, she finds herself slowly taking on the role of clan leader, a post she is bound to by honor and blood. As breakup becomes increasingly fraught with danger and destruction, Kate must decide whether she can cross the line from passive observer to instrument of change, assuming the role of elder as the mantle of responsibility is passed.
+SUMMARY:
+In Breakup, Kate Shugak's loyalties - to the land, her heritage, her home - are put to the test when a series of mishaps lead to murder. April in Alaska is typically a period of rebirth and renewal, and after the long winter Kate has nothing more strenuous on her agenda than paying her taxes. But mayhem abounds as the meltoff flows; this year's thaw is accompanied by rampaging bears, family feuds, and a plane crash quite literally in Kate's own backyard. What begins as a series of headaches escalates into possible murder when a dead body is found near her homestead. Initially unwilling to involve herself in the investigation, preferring instead to write off each odd occurrence as a breakup-related peculiarity, Kate is drawn irresistibly to seek the truth. Compelled by her friends to act as problem solver and guided by the spirit of her Aleut grandmother, she finds herself slowly taking on the role of clan leader, a post she is bound to by honor and blood. As breakup becomes increasingly fraught with danger and destruction, Kate must decide whether she can cross the line from passive observer to instrument of change, assuming the role of elder as the mantle of responsibility is passed.</dc:description>
+        <dc:publisher>New York : G.P. Putnam's Sons, c1997.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399142505</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Kate Shugak Mystery" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-06T18:54:03.831000+00:00" name="calibre:timestamp"/>
+        <meta content="Breakup" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

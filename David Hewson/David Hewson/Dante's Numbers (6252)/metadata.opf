@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b6fe17b-16e3-482b-b6cb-495fdb16e1e5</dc:identifier>
+        <dc:title>Dante's Numbers</dc:title>
+        <dc:creator opf:file-as="Hewson, David" opf:role="aut">David Hewson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-24T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+It was a warm, golden evening in Rome—a night filled with anticipation. A legendary director was premiering his new film version of Dante’s Inferno. From around the world, celebrities gathered at the Villa Borghese as the paparazzi thronged among them. But within moments the event was in chaos. A man was dead. The film’s star was missing—and a priceless relic had vanished. In David Hewson’s masterful new novel of suspense, Detective Nic Costa, numb from the recent death of his wife, finds himself and his fellow detectives drawn into a strange and terrifying limbo—the first of Dante’s nine circles of Hell.While Dante had Beatrice as his guide, Nic Costa has an enigmatic beauty of his own: a bored American film actress named Maggie Flavier who decides that Costa, and no one else, is suited for the job of protecting her from the danger surrounding the film. As the premiere shifts locations—from Rome to San Francisco—Costa leaves Europe for the first time in his life, and is pulled from his grief and ambivalence by Maggie Flavier and the city by the bay. Fortunately his fellow detectives are under no such spell. Charged with protecting a trove of rare Italian artworks and artifacts, they are also joining the hunt for a killer who has struck twice again, leaving behind a tableau of clues that range from Dante’s deadly cycle of numbers to the films of Alfred Hitchcock.Now, with Maggie herself in danger, Nic must throw off the fog of wonder and infatuation he feels in the presence of this beautiful woman in all her guises. But it may already be too late. As evidence points to connections deep within the Italian Mafia, and the Roman policemen do battle with a celluloid culture they cannot quite comprehend, a killer’s chilling plot is closing in around them—guided by a poet’s medieval vision of sin and punishment, planned with a modern genius for revenge….</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385341486</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Nic Costa" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T20:11:52.140000+00:00" name="calibre:timestamp"/>
+        <meta content="Dante's Numbers" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

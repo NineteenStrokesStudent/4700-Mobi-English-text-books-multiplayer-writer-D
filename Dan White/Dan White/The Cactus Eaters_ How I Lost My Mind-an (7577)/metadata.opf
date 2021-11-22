@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f244e06c-c425-43bd-bb3f-980eec603432</dc:identifier>
+        <dc:title>The Cactus Eaters: How I Lost My Mind-and Almost Found Myself-on the Pacific Crest Trail</dc:title>
+        <dc:creator opf:file-as="White, Dan" opf:role="aut">Dan White</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-13T17:49:50.679000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Traversing broiling deserts, snowy mountain passes and dank rain forests on its crooked way from Mexico to Canada, the Pacific Coast Trail is an epic challenge for die-hard backpackers. White and his girlfriend, Melissa, set out, late in the season and bereft of experience, to tread all 2,650 miles of it, leaving behind lousy reporting jobs and hoping to find self-definition and a deepened relationship. (They call their trek the Lois and Clark Expedition.) Hilarious greenhorn misadventures ensue—including the author's ill-advised chomp, while dizzy with dehydration, into a reputedly moisture-laden prickly-pear cactus—that tested their survival skills and commitment as a couple. The trail becomes less an itinerary than a world unto itself, full of squalor, discomfort and majestic scenery, and peopled by charismatic misfits and an austere cult of ultra-light speed-hikers, as the couple rely on arcane camping gear and bizarre gummy-bear-and-marshmallow diets. The wilderness authenticity the author seeks proves elusive; all journey and no destination, the story itself eventually trails off with the hero even more callow and confused than when he started. Still, White's vivid prose and hangdog humor make readers want to keep up. &lt;em&gt;(June)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"Drawing on diaries he kept at the time, White polishes up these memories, serving them forth with brio and dash…[The Cactus Eaters] brings a fresh perspective to the timeworn adventure-travel genre." -- &lt;em&gt;Kirkus Reviews&lt;/em&gt;  
+&lt;/p&gt;
+&lt;p&gt;"In the well-written, laugh-out-loud, self-deprecating spirit of Bill Bryson’s A Walk In The Woods and Nora Ephron’s When Harry Met Sally, Dan White takes us along for a walk on the wild side of adventure and love. I could not put it down." -- &lt;em&gt;Eric Blehm, National Outdoor Book Award-winning author of THE LAST SEASON.&lt;/em&gt;  
+&lt;/p&gt;
+&lt;p&gt;"It is a funny, frequently harrowing, and altogether mesmerizing memoir about just how wrong a backpacking expedition can go….‘The Cactus Eaters’ is far more than a Sierra Club-approved romp. It’s gorp for the soul, a fascinating and surprisingly moving testament to the call of the wild." -- &lt;em&gt;Steve Almond, Boston Globe&lt;/em&gt;
+&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061376931</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:35:05.047000+00:00" name="calibre:timestamp"/>
+        <meta content="Cactus Eaters: How I Lost My Mind-and Almost Found Myself-on the Pacific Crest Trail, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Travel&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

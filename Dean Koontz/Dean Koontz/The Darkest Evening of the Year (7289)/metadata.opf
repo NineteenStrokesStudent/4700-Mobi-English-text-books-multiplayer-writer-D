@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0b14800-c497-4e3a-9dca-cd9fdebd4add</dc:identifier>
+        <dc:title>The Darkest Evening of the Year</dc:title>
+        <dc:creator opf:file-as="Koontz, Dean" opf:role="aut">Dean Koontz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-11-27T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+With each of his #1 *New York Times* bestsellers, Dean Koontz has displayed an unparalleled ability to entertain and enlighten readers with novels that capture the essence of our times even as they bring us to the edge of our seats. Now he delivers a heart-gripping tour de force he’s been waiting years to write, at once a love story, a thrilling adventure, and a masterwork of suspense that redefines the boundaries of primal fear—and of enduring devotion.  Amy Redwing has dedicated her life to the southern California organization she founded to rescue abandoned and endangered golden retrievers. Among dog lovers, she’s a legend for the risks she’ll take to save an animal from abuse. Among her friends, Amy’s heedless devotion is often cause for concern. To widower Brian McCarthy, whose commitment she can’t allow herself to return, Amy’s behavior is far more puzzling and hides a shattering secret.No one is surprised when Amy risks her life to save Nickie, nor when she takes the female golden into her home. The bond between Amy and Nickie is immediate and uncanny. Even her two other goldens, Fred and Ethel, recognize Nickie as special, a natural alpha. But the instant joy Nickie brings is shadowed by a series of eerie incidents. An ominous stranger. A mysterious home invasion. And the unmistakable sense that someone is watching Amy’s every move and that, whoever it is, he’s not alone. Someone has come back to turn Amy into the desperate, hunted creature she’s always been there to save. But now there’s no one to save Amy and those she loves. From its breathtaking opening scene to its shocking climax, **The Darkest Evening of the Year** is Dean Koontz at his finest, a transcendent thriller certain to have readers turning pages until dawn.</dc:description>
+        <dc:publisher>Bantam</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553804829</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-09T09:33:38.817000+00:00" name="calibre:timestamp"/>
+        <meta content="Darkest Evening of the Year, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

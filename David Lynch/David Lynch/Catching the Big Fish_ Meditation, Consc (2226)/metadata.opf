@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">691bf7ec-c99d-464c-af30-6862445c62be</dc:identifier>
+        <dc:title>Catching the Big Fish: Meditation, Consciousness, and Creativity</dc:title>
+        <dc:creator opf:file-as="Lynch, David" opf:role="aut">David Lynch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**In this "unexpected delight,"* filmmaker David Lynch describes his personal methods of capturing and working with ideas, and the immense creative benefits he has experienced from the practice of meditation.**  Now in a beautiful paperback edition, David Lynch's  *Catching the Big Fish* provides a rare window into the internationally acclaimed filmmaker's methods as an artist, his personal working style, and the immense creative benefits he has experienced from the practice of meditation.  *Catching the Big Fish* comes as a revelation to the legion of fans who have longed to better understand Lynch's personal vision. And it is equally compelling to those who wonder how they can nurture their own creativity.  **Catching Ideas**  * Ideas are like fish.  If you want to catch little fish, you can stay in the shallow water. But if you want to catch the big fish, you've got to go deeper.  Down deep, the fish are more powerful and more pure. They're huge and abstract. And they're very beautiful.  I look for a certain kind of fish that is important to me, one that can translate to cinema. But there are all kinds of fish swimming down there. There are fish for business, fish for sports. There are fish for everything.  Everything, anything that is a thing, comes up from the deepest level. Modern physics calls that level the Unified Field. The more your consciousness-your awareness-is expanded, the deeper you go toward this source, and the bigger the fish you can catch.*  -from *Catching the Big Fish*</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781585426126</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T03:44:57.340000+00:00" name="calibre:timestamp"/>
+        <meta content="Catching the Big Fish: Meditation, Consciousness, and Creativity" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

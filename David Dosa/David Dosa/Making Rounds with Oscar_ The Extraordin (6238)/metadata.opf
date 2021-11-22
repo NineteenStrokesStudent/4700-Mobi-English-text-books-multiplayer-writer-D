@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29ab79db-4929-422a-af41-a61d2d8dfed8</dc:identifier>
+        <dc:title>Making Rounds with Oscar: The Extraordinary Gift of an Ordinary Cat</dc:title>
+        <dc:creator opf:file-as="Dosa, David" opf:role="aut">David Dosa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-20T18:36:56.983000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A remarkable cat. A special gift. A life-changing journey.**    
+
+They thought he was just a cat.   
+
+When Oscar arrived at the Steere House Nursing and Rehabilitation Center in Rhode Island he was a   cute little guy with attitude. He loved to stretch out in a puddle of sunlight and chase his tail   until he was dizzy. Occasionally he consented to a scratch behind the ears, but only when it suited   him. In other words, he was a typical cat. Or so it seemed. It wasn't long before Oscar had created   something of a stir.   
+
+Apparently, this ordinary cat possesses an extraordinary gift: he knows instinctively when the   end of life is near.   
+
+Oscar is a welcome distraction for the residents of Steere House, many of whom are living with   Alzheimer's. But he never spends much time with them--until they are in their last hours. Then, as if   this were his job, Oscar strides purposely into a patient's room, curls up on the bed, and begins   his vigil. Oscar provides comfort and companionship when people need him most. And his presence lets   caregivers and loved ones know that it's time to say good-bye.   
+
+Oscar's gift is a tender mercy. He teaches by example: embracing moments of life that so many of   us shy away from.   
+
+*Making Rounds with Oscar* is the story of an unusual cat, the patients he serves, their   caregivers, and of one doctor who learned how to listen. Heartfelt, inspiring, and full of humor and   pathos, this book allows readers to take a walk into a world rarely seen from the outside, a world   we often misunderstand.    
+
+**Praise for *Making Rounds With Oscar***     
+
+"I love this book -- Oscar has much to teach us about empathy and courage. I couldn't put it   down."  -Sarah Gruen, author of *Water for Elephants*     
+
+"At its heart, Dosa's search is more about how people cope with death than Oscar's purported   ability to predict it."  -*The Associated Press*     
+
+"Beautifully written, heartwarming [...] Told with profound insight and great respect for all   involved, this is more than just a cat story (although it will appeal to fans of Vicki Myron's   Dewey)."  -*Library Journal*     
+
+"You'll be moved."  -*People*</dc:description>
+        <dc:publisher>Hyperion Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401323233</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T18:32:49.723000+00:00" name="calibre:timestamp"/>
+        <meta content="Making Rounds with Oscar: The Extraordinary Gift of an Ordinary Cat" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

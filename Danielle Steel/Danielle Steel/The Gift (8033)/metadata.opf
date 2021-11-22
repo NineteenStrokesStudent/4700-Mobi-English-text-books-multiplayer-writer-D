@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09476d7-7243-45d6-b9ef-0a17bf6b6963</dc:identifier>
+        <dc:title>The Gift</dc:title>
+        <dc:creator opf:file-as="Steel, Danielle" opf:role="aut">Danielle Steel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-02-05T06:21:12.222000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Set in the 1950s, Steel's account of a family coming to terms with a child's death spent 12 weeks on PW's bestseller list. &lt;br /&gt;Copyright 1996 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;In reviewing the last few Steel novels, &lt;em&gt;Booklist&lt;/em&gt; has tried to make the argument that the author and her readers deserve more respect than they get. Steel does not exploit the romance genre for its racy, dark, or semipornographic underpinnings; she has taken one element of the medieval love-tale, adapted its gentle, loving, and hopeful outlook to the modern world, and produced a satisfying set of variations on her theme. &lt;em&gt;The Gift&lt;/em&gt; is Steel to perfection. A small work, it tells the tale of two 16-year-olds whose meeting restores life to both. The death of Tommy's little sister wrecks a family's happiness. The unwanted pregnancy of Maribeth threatens to ruin her attempt to lift herself out of an anti-intellectual and sexist environment. But when the two meet, love, support, sensitivity, and some much-needed wisdom redeem the bleak circumstances of their lives and bring the story to its satisfying conclusion. Clich{‚}ed, sentimental? Maybe, but Steel &lt;em&gt;believes&lt;/em&gt; in the goodness of her characters and here, more than ever before, shows absolute faith in a simple tale of rewarded virtue. This is the author at her best: mature, to the point, refreshed by the tale of her young lovers. Not great art, perhaps, but in its own way almost perfect. &lt;em&gt;Stuart Whitwell&lt;/em&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440221319</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-13T06:08:06.797000+00:00" name="calibre:timestamp"/>
+        <meta content="Gift, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

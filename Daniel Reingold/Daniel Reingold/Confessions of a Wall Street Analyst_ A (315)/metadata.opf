@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a30dc7e0-0be9-44ca-a5ec-832135abb995</dc:identifier>
+        <dc:title>Confessions of a Wall Street Analyst: A True Story of Inside Information and Corruption in the Stock Market</dc:title>
+        <dc:creator opf:file-as="Reingold, Daniel &amp; Reingold, Jennifer" opf:role="aut">Daniel Reingold</dc:creator>
+        <dc:creator opf:file-as="Reingold, Daniel &amp; Reingold, Jennifer" opf:role="aut">Jennifer Reingold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-17T17:15:09.210000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+*
+
+Here is the true story of a top Wall Street player's transformation from a straight-arrow believer to a jaded cynic, who reveals how Wall Street's insider game is really played.* 
+
+Dan Reingold was a top Wall Street analyst for fourteen years and Salomon Smith Barney analyst Jack Grubman's chief competitor in the red-hot sector of telecom. Reingold was part of the "Street" and believed in it. 
+
+But in this action-packed, highly personal memoir written with accomplished *Fast Company* senior writer Jennifer Reingold the author describes how his enthusiasm gave way to disgust as he learned how deeply corrupted Wall Street and much of corporate America had become during the roaring stock market bubble of the 1990s. 
+
+*Confessions of a Wall Street Analyst* provides a front-row seat at one of the most dramatic -- and ultimately tragic -- periods in financial history. Reingold recounts his introduction to the world of Wall Street leaks and secret deal-making; his experiences with corporate fraud; and Wall Street's alarming penchant for lavish spending and multimillion-dollar pay packages. 
+
+Reingold spars with arch rival Grubman; fends off intense pressures from Wall Street bankers and corporate CEOs; and is wooed by Morgan Stanley's CEO, John Mack, and CSFB's über-banker Frank Quattrone. 
+
+Reingold describes instances in which confidential deals are whispered days before their official announcement. He recalls the moment he learns that Bernie Ebbers's WorldCom was massively cooking its books. And he is shocked to have been an unwitting catalyst for a series of sexually explicit e-mails that would rock Wall Street; bring Jack Grubman to his knees; and contribute to the stepping aside of Grubman's boss, Citigroup CEO Sandy Weill. 
+
+Some of Reingold's stories are outrageous, others hilarious, and many are simply absurd. But, together, they provide a sobering exposé of Wall Street: a jungle of greed and ego, a place brimming with conflicts and inside information, and a business absurdly out of touch with the Main Street it claims to serve. 
+
+He shows how government investigators, headlines notwithstanding, never got to the heart of the ethical and legal transgressions of the era. And how they completely overlooked Wall Street's pervasive use of inside information, leaving investors -- even sophisticated professionals -- cheated. The book ends with a series of important policy recommendations to clean up the investing business. 
+
+In the tradition of *Liar's Poker* and *Den of Thieves*, *Confessions of a Wall Street Analyst* is a no-holds-barred insider's account that will open the eyes of every investor.</dc:description>
+        <dc:publisher>Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060747701</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-03T17:39:09.095000+00:00" name="calibre:timestamp"/>
+        <meta content="Confessions of a Wall Street Analyst: A True Story of Inside Information and Corruption in the Stock Market" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

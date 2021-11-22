@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd22210e-d001-4518-801c-8e398ac80313</dc:identifier>
+        <dc:title>Geosynchron</dc:title>
+        <dc:creator opf:file-as="Edelman, David Louis" opf:role="aut">David Louis Edelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-23T18:36:24.678000+00:00</dc:date>
+        <dc:description>**DAVID LOUIS EDELMAN'S BUSINESS SCIENCE FICTION SAGA THAT BEGAN WITH *INFOQUAKE* AND *MULTIREAL* COMES TO A STUNNING CONCLUSION WITH *GEOSYNCHRON*, THE LAST BOOK OF THE JUMP 225 TRILOGY.**
+
+The Defense and Wellness Council is enmeshed in full-scale civil war between Len Borda and the mysterious Magan Kai Lee. Quell has escaped from prison and is stirring up rebellion in the Islands with the aid of a brash young leader named Josiah. Jara and the apprentices of the Surina/Natch MultiReal Fiefcorp still find themselves fighting off legal attacks from their competitors and from Margaret Surina's unscrupulous heirs -- even though MultiReal has completely vanished.
+
+The quest for the truth will lead to the edges of civilization, from the tumultuous society of the Pacific Islands to the lawless orbital colony of 49th Heaven; and through the deeps of time, from the hidden agenda of the Surina family to the real truth behind the Autonomous Revolt that devastated humanity hundreds of years ago.
+
+Meanwhile, Natch has awakened in a windowless prison with nothing but a haze of memory to clue him in as to how he got there. He's still receiving strange hallucinatory messages from Margaret Surina and the nature of reality is buckling all around him. When the smoke clears, Natch must make the ultimate decision -- whether to save a world that has scorned and discarded him, or to save the only person he has ever loved: himself.</dc:description>
+        <dc:publisher>Prometheus Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781591027928</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Jump 225" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-19T23:40:30.848000+00:00" name="calibre:timestamp"/>
+        <meta content="Geosynchron" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">136fdf4b-606e-4adb-82ea-7742e31591bd</dc:identifier>
+        <dc:title>The Secret Servant</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-14T23:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+He has been called his generation's finest writer of international intrigue, one of America's most gifted spy novelists ever, and the successor to Graham Greene and John le CarrŽ. But with his follow-up to the 2006 electrifying number one bestseller *The Messenger*, Daniel Silva has written his most compelling and entertaining novel to date.    
+
+When last we encountered Gabriel Allon, the master art restorer and sometime officer of Israeli intelligence, he had just prevailed in his blood-soaked duel with Saudi terrorist financier Zizi al-Bakari. Now Gabriel is summoned once more by his masters to undertake what appears to be a routine assignment: travel to Amsterdam to purge the archives of a murdered Dutch terrorism analyst who also happened to be an asset of Israeli intelligence. But once in Amsterdam, Gabriel soon discovers a conspiracy of terror festering in the city's Islamic underground, a plot that is about to explode on the other side of the English Channel, in the middle of London.     
+
+The target of this plot is Elizabeth Halton, the daughter of the American ambassador to the Court of St. James's, who is to be brutally kidnapped. Gabriel arrives seconds too late to save her. And by revealing his face to the plot's masterminds, his fate is sealed as well. Drawn once more into the service of American intelligence, Gabriel hurls himself into a desperate search for the missing woman as the clock ticks steadily toward the hour of her execution. It will take him from Amsterdam to Germany to the very end of Denmark. It will thrust him into an unlikely alliance with a man who has lost everything because of his devotion to Islam. It will cause him to question the morality of the tactics of his trade. And it might very well cost him his life.    
+
+Filled with breathtaking double and triple turns of plot, and a final mind-bending sequence that will leave readers breathless, *The Secret Servant* is not only a work of supreme entertainment, but also an exploration of some of the most daunting issues of our times: the war on terrorism, the weapons the West uses to wage it, and the time bomb now ticking in the heart of Western Europe.</dc:description>
+        <dc:publisher>Signet</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451224507</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Gabriel Allon" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-25T01:49:56.801571+00:00" name="calibre:timestamp"/>
+        <meta content="Secret Servant, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

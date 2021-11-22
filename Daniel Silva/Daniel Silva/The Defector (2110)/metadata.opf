@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2110</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98a66df1-a1cf-4045-b0ca-b02c465d3503</dc:identifier>
+        <dc:title>The Defector</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**In the #1 *New York Times* bestseller *Moscow Rules*, Gabriel Allon brought down the most dangerous man in the world. But he made one mistake. Leaving him alive…**
+
+
+
+ Over the course of a brilliant career, Daniel Silva has established himself as the “gold standard” of thriller writers (*Dallas Morning News*), a “master writer of espionage and intrigue” (The Cincinnati Enquirer), and the creator of “some of the most exciting spy fiction since Ian Fleming put down his martini and invented James Bond” (*Rocky Mountain News*). Now Silva takes that fiction—and his hero, the enigmatic art restorer and assassin Gabriel Allon—to a whole new level, delivering a riveting tale of vengeance that entertains as well as enlightens.
+
+
+
+ 	Six months after the dramatic conclusion of *Moscow Rules*, Gabriel has returned to the tan hills of Umbria to resume his honeymoon with his new wife, Chiara, and restore a seventeenth-century altarpiece for the Vatican. But his idyllic world is once again thrown into turmoil with shocking news from London. The defector and former Russian intelligence officer Grigori Bulganov, who saved Gabriel’s life in Moscow, has vanished without a trace. British intelligence is sure he was a double agent all along, but Gabriel knows better. He also knows he made a promise.
+
+
+
+ 	*Do you know what we do with traitors, Gabriel? Many things have changed in Russia since the fall of Communism. But the punishment for betrayal remains the same. Promise me one thing, Gabriel. Promise me I won't end up in an unmarked grave.*
+
+
+
+ 	In the days to come, Gabriel and his team of operatives will find themselves in a deadly duel of nerve and wits with one of the world's most ruthless men: the murderous Russian oligarch and arms dealer Ivan Kharkov. It will take him from a quiet mews in London, to the shores of Lake Como, to the glittering streets of Geneva and Zurich, and, finally, to a heart-stopping climax in the snowbound birch forests of Russia. Faced with the prospect of losing the one thing he holds most dear, Gabriel will be tested in ways he never imagined possible. And his life will never be the same.
+
+
+
+ 	Filled with breathtaking turns of plot and sophisticated prose, and populated by a remarkable cast of characters, *The Defector* is more than the most explosive thriller of the year. It is a searing tale of love, vengeance and courage created by the writer whom the critics call "the perfect guide to the dangerous forces shaping our world" (*Orlando Sentinel*). And it is Daniel Silva's finest novel yet.</dc:description>
+        <dc:publisher>Gale</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594134166</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Gabriel Allon" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-18T10:51:56.272000+00:00" name="calibre:timestamp"/>
+        <meta content="Defector, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

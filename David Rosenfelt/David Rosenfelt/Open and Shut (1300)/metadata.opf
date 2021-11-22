@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1edac014-ea0f-42cf-bc77-3cce5a02e547</dc:identifier>
+        <dc:title>Open and Shut</dc:title>
+        <dc:creator opf:file-as="Rosenfelt, David" opf:role="aut">David Rosenfelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-01T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"There is nothing like a golden retriever. I know, I know, it's a big planet with a lot of wonderful things, but golden retrievers are the absolute best. Mine is named Tara . . . The only problem she has ever caused is that I spend so much time with her in the mornings that I am almost invariably late for work." Whether dueling with new forensics or the local old boys' network, irreverent defense attorney Andy Carpenter always leaves them awed with his biting wit and winning fourth-quarter game plan. But Andy prefers the company of his best friend, Tara, to the people he encounters in the courtroom. Tara, a golden retriever, is clearly smarter than half the lawyers who clog the courts of PassaicCounty. However, just as it seems Andy has everything figured out, his dad, New Jersey's legendary ex-D.A., drops dead in front of him at a game in Yankee Stadium. The shocks pile on as he discovers his dad left him with two unexpected legacies: a fortune of $22 million that Andy never knew existed . . . and a murder case with enough racial tinder to burn down City Hall. Struggling to serve justice and bring honor to his father, Andy must dig up some explosive political skeletons-and an astonishing family secret that can close his case (and his mouth) for good.</dc:description>
+        <dc:publisher>Warner Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446612531</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Andy Carpenter" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-01T19:51:36.158000+00:00" name="calibre:timestamp"/>
+        <meta content="Open and Shut" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

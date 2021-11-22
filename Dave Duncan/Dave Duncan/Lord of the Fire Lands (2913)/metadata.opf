@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bea66c6-4e5b-4282-83ad-74b4f168addc</dc:identifier>
+        <dc:title>Lord of the Fire Lands</dc:title>
+        <dc:creator opf:file-as="Duncan, Dave" opf:role="aut">Dave Duncan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-01T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+As unwanted, rebellious boys, they found refuge in Ironhall. . .Years later they emerged as the finest swordsmen in the realm— The Kings Blades Once bound, a Blade's life is no longer his own. Only death can break the gilded chain of enchantment that binds the bodyguard to the man he is sworn to defend. And never in living memory has a candidate refused the honor of serving his king. . .until now. Young Wasp never intended to be a rebel. Yet, at the sacred ceremony of binding, he follows the lead of his friend Raider, and together they spurn the wishes of King Ambrose himself. Now Raider and Wasp are outlaws hunted by the very Blades whose ranks they were a breath away from entering, and joined together by a destiny that binds them more securely than any knot tradition and sorcery might tie. Amid the turmoil their "treachery" has inspired, Wasp and Raider must undertake a desperate journey into the heart of the dreaded Fire Lands. And the outcome of their terrifying confrontation with dark truth and darker magic in this realm of monsters, ghosts, and half-men will ultimately determine the fate of two kingdoms.</dc:description>
+        <dc:publisher>New York : EOS, 2000, c1999.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780380791279</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="King's Blades" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-08-30T03:12:01+00:00" name="calibre:timestamp"/>
+        <meta content="Lord of the Fire Lands" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c4d9c9-79fc-48e5-9db4-ee86f4650f4b</dc:identifier>
+        <dc:title>Women in Love</dc:title>
+        <dc:creator opf:file-as="Lawrence, D. H." opf:role="aut">D. H. Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-06T07:00:00+00:00</dc:date>
+        <dc:description>Women in Love, by D. H. Lawrence, is part of the Barnes &amp; Noble Classics series, which offers quality editions at affordable prices to the student and the general reader, including new scholarship, thoughtful design, and pages of carefully crafted extras. Here are some of the remarkable features of Barnes &amp; Noble Classics:
+New introductions commissioned from today's top writers and scholars
+Biographies of the authors
+Chronologies of contemporary historical, biographical, and cultural events
+Footnotes and endnotes
+Selective discussions of imitations, parodies, poems, books, plays, paintings, operas, statuary, and films inspired by the work
+Comments by other famous authors
+Study questions to challenge the reader's viewpoints and expectations
+Bibliographies for further reading
+Indices &amp; Glossaries, when appropriate
+All editions are beautifully designed and are printed to superior specifications; some include illustrations of historical interest. Barnes &amp; Noble Classics pulls together a constellation of influences—biographical, historical, and literary—to enrich each reader's understanding of these enduring works.
+
+
+
+One of the most versatile and influential figures in twentieth-century literature, D. H. Lawrence was a master craftsman and profound thinker whose celebration of sexuality in an over-intellectualized world opened the door to that topic for countless writers after him.
+
+Perhaps his finest novel, Women in Love (1920) continues the story of two sisters, Ursula and Gudrun Brangwen, who first appeared in Lawrence’s novel The Rainbow (1915). The story contrasts the passionate love affairs of Ursula and Rupert Birkin, a character often seen as a self-portrait of Lawrence, with that of Gudrun and Gerald Crich, an icily handsome mining industrialist. Birkin, an introspective misanthrope, struggles to reconcile his metaphysical drive for self-fulfillment with Ursula’s practical view of sentimental passion. As they fight their way through to a mutually satisfying relationship—and eventual marriage—Gudrun and Crich’s sadomasochistic love affair careens toward a disastrous conclusion. 
+
+A dark, disturbing, yet beautiful exploration of love in an increasingly violent and destructive world, Women in Love nevertheless holds out the hope of individual and collective rebirth through human intensity and passion. 
+
+Norman Loftis is a poet, novelist, essayist, philosopher, and filmmaker. His works include Exiles and Voyages (poetry, 1969), Black Anima (poetry, 1973), Life Force (novel, 1982), From Barbarism to Decadence (1984), and Condition Zero (1993). His feature films include Schaman (1984), the award-winning Small Time (1989), and Messenger (1995). He is currently Chair of the Department of Literature at the Brooklyn Campus of the College of New Rochelle and is on the faculty at Medgar Evers College, CUNY, where he has taught since 1970.</dc:description>
+        <dc:publisher>Barnes&amp;Noble</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593082581</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-06T23:36:08.035000+00:00" name="calibre:timestamp"/>
+        <meta content="Women in Love" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

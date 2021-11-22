@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b068ae14-c832-47a0-9f24-79146e012792</dc:identifier>
+        <dc:title>More Bitter Than Death: An Emma Fielding Mystery</dc:title>
+        <dc:creator opf:file-as="Cameron, Dana" opf:role="aut">Dana Cameron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-05-05T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+It's a deadly winter for archaeologist Emma Fielding as she tracks a killer in an old New Hampshire hotel, in this fifth mystery from real-life archaeologist Dana Cameron. Archaeologist Emma Fielding should be on top of the world. Her teaching job secure and home life stable, she arrives at an archaeological conference at a famous old New Hampshire hotel, having outrun the winter storm that's paralysing the East Coast. A rising star in the field, she's in the midst of friends she's known all her life, celebrating the work of Professor Garrison, a venerable legend in the field.  When Garrison is found dead on the iced-over lake outside the snow-bound hotel, however, Emma realizes that everyone has something to hide, including herself. While the police determine whether Garrison's death was an accident, suicide, or murder, Emma's intimate knowledge of her colleagues hasn't prepared her for what they're concealing, even from themselves. Emma is also forced to face the fact that the dead man was no friend of hers (or her grandfather Oscar) and that everyone-colleagues, police, and herself included-wonders why her view of him is so very different.  The presence of Emma's old flame Duncan brings up bitter memories she'd rather were left buried deep in the past: Duncan wants something from her and Emma can't tell whether it is an opportunity to rekindle their relationship or a way to ensure her silence permanently. Professional jealousies and infighting would be enough added to Garrison's mysterious death, but a series of thefts and attacks in the isolated hotel make the stranded archaeologists ask whether a vengeful ghost has returned, practiced criminals are targeting the conference, or one of their own number has finally succumbed to an array of deadly temptations.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060554637</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Emma Fielding Mysteries" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-23T11:21:42.126000+00:00" name="calibre:timestamp"/>
+        <meta content="More Bitter Than Death: An Emma Fielding Mystery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

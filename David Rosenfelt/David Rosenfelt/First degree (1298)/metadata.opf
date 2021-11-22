@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c7ee8e6-21c7-474c-b063-69c5ca265bc4</dc:identifier>
+        <dc:title>First degree</dc:title>
+        <dc:creator opf:file-as="Rosenfelt, David" opf:role="aut">David Rosenfelt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-05-14T19:52:08.518000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The mysterious legacy of defense attorney Andy Carpenter's late father has made him a rich man--22 million dollars rich, to be exact. But as Andy relaxes in his office, imagining ways to spend his money, he has an unexpected visitor: a stranger who confesses to decapitating and burning a man--cooly relying on the confidentiality of attorney-client privilege. When an innocent man is charged with the crime, Andy decides to take on the case. But the case becomes personal when, in a stunning development, Andy's client is exonerated and his girlfriend, Laurie Collins, is accused of the crime. When the man who originally confessed to the murder turns up dead, Andy realizes that this is much bigger than one crime. Who committed the murders? Who framed Laurie? In the case of his life, Andy must prove Laurie's innocence in this thrilling mystery from the always inventive David Rosenfelt.- Open and Shut (Mysterious Press, 5/02) was a Mystery Guild(R) Featured Alternate. Bulgarian, French, and German rights to the book were sold before publication. Its 5/03 mass market release will tie in with the hardcover release of First Degree.- David Rosenfelt writes legal mysteries with the same authority and sense of drama that has ensured the success of Robert B. Parker, Robert Crais, and Harlan Coben.</dc:description>
+        <dc:publisher>Mysterious Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780892967544</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Andy Carpenter" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-17T23:13:39.603000+00:00" name="calibre:timestamp"/>
+        <meta content="First degree" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
